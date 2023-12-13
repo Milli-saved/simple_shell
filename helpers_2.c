@@ -1,4 +1,3 @@
-
 #include "shell.h"
 
 void handle_line(char **line, ssize_t read);

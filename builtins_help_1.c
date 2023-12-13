@@ -1,4 +1,3 @@
-
 #include "shell.h"
 
 void help_all(void);

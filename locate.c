@@ -1,4 +1,3 @@
-
 #include "shell.h"
 
 char *fill_path_dir(char *path);
